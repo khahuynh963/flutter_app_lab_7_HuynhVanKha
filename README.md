@@ -1,7 +1,7 @@
 # Login App - Flutter
 
 ## Thông tin sinh viên
-- **Họ tên:** Huỳnh Văn Kha
+- **Họ tên:** Huỳnh Văn Khá
 - **MSSV:** 2224802010318
 
 ## Mô tả
@@ -9,9 +9,9 @@
 
 ## Link Video quá trình thực hiện code
 
-📥 **[Tải Video quá trình thực hiện](./Video%20quá%20trình%20thực%20hiện.mp4)**
+📥 **[Tải Video quá trình thực hiện](https://github.com/khahuynh963/flutter_app_lab_7_HuynhVanKha/releases/download/v1.0/Video.qua.trinh.thuc.hien.mp4)**
 
-> Video ghi lại toàn bộ quá trình thực hiện code ứng dụng Login App.
+> Video ghi lại toàn bộ quá trình thực hiện code ứng dụng Login App. Click vào link trên để tải về.
 
 ## Cách chạy ứng dụng
 
